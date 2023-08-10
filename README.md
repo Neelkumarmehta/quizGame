@@ -1,2 +1,2 @@
 # quiz_game
-Made c++ code for simple quiz game
+Used File I/O and DSA Concept for making this game.
